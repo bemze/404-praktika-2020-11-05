@@ -1,0 +1,33 @@
+body{
+    margin-top: 5%;
+
+}
+    img {
+        display: inline-block; 
+        width: 30%;
+        float: left;
+        margin-left: 8%;
+       
+    }
+    div {
+    /* text-align: center; */
+    }
+    h1 {
+        /* display: inline-block; */
+        width: 50%;
+        float: right;
+        font-size: 30px;
+        color: #11040D;
+        margin-top: 15%;
+        background-color: aqua;
+    }
+    p{
+        display: inline-block;
+        float: right;
+        color: #878087;
+        font-size: 15px;
+        background-color: cadetblue;
+        text-align: center;
+        width: 50%;
+
+    }
